@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap");
+.container {
+  max-width: 1080px;
+  margin: 20px auto;
+}
+
+.button-show-loc {
+  margin: 12px 0;
+}

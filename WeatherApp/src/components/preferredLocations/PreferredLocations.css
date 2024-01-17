@@ -1,0 +1,62 @@
+.preferedlocations-content-holder {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  max-width: 434px;
+  max-height: 207px;
+  background-color: rgb(32, 43, 59);
+  border-radius: 24px;
+  margin: 10px auto;
+}
+
+.cityname-description-container h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 35px;
+  font-weight: 600;
+  color: rgb(221, 224, 228);
+  font-family: Rubik;
+}
+
+.cityname-description-container p {
+  color: rgb(196, 202, 211);
+  font-family: Rubik;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.cityname-description-container .high-low-temp {
+  color: rgb(196, 202, 211);
+  font-family: Rubik;
+  font-size: 20px;
+}
+
+.cityname-description-container .real-feel {
+  color: rgb(196, 202, 211);
+  font-family: Rubik;
+  font-size: 15px;
+}
+
+.cityname-description-container .desc-prefer-loc {
+  color: rgb(191, 193, 196);
+  font-family: Rubik;
+  font-size: 15px;
+}
+
+.cityname-description-container {
+  flex: 1;
+  margin: 15px;
+}
+
+.prefered-loc-icon {
+  flex: 1;
+}
+
+.prefered-loc-icon img {
+  width: 100%;
+  height: 100%;
+  max-width: 190px;
+  max-height: 185px;
+}
